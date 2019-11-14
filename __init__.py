@@ -1,0 +1,15 @@
+PySymbol/
+    __init__.py
+    setup.py
+    setup.cfg
+    LICENSE
+    README.md
+    requirements.txt
+    MANIFEST
+    src/
+        __init__.py
+        CreateDict.py
+        PySymbol.py
+        PySymbol.py
+        StkMktPaths.py
+        TrySymbolFetch.py
