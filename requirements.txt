@@ -1,4 +1,4 @@
 pip>=19.3.1
 beautifulsoup4==4.8.1    
-lxml==4.4.1    
+lxml==4.9.1    
 requests==2.22.0
